@@ -19,10 +19,10 @@ Run the following code to open your RProfile
 ```{r}
 file.edit(file.path("~", ".Rprofile")) # edit .Rprofile in HOME
 ```
-3.) Cut and paste the following code into your RProfile document and then save. Before you do, please read and consider the following.
+3.) Cut and paste the following code into your RProfile document and then save. 
 
 ```{r}
-#Please input the location of the closest major city to you, your preferred light theme, #and your preferred dark theme. The defaults are Chicago, Dawn, and Dracula. If you move #or travel, you will need to change this file.
+#Please input the location of the closest major city to you, your preferred light theme, #and your preferred dark theme. The defaults are Chicago, Dawn, and Dracula.
 
 #### input the MAJOR city closest to you and your preferred light and dark themes##
 yourcity <- "Chicago"
