@@ -1,5 +1,5 @@
 # DynamicRThemes
-Make RStudio boot a light or dark theme depending on the time of day in your area! This repo contains instructions and code for easy set up. Requires latest version of R (3.6)
+Make RStudio boot a light or dark theme depending on the time of day in your area! This repo contains instructions and code for easy set up. Requires latest version of R (3.6). You will also need RStudio > 1.2.5033 or RMarkdown will crash.
 
 1.) Install required packages:
 
